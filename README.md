@@ -1,6 +1,6 @@
 # Lugtu-Session8-Task1
 
-Redux application in functional and class-based component.
+Redux/toolkit application.
 
 ## Features
 
@@ -52,6 +52,7 @@ Folder name is self explanatory
 [React-router-dom](https://reactrouter.com/en/main/start/tutorial)  
 [React-redux](https://react-redux.js.org/introduction/getting-started)  
 [Redux/Toolkit](https://redux.js.org/introduction/getting-started)  
+[React Export Excel](https://github.com/rdcalle/react-export-excel#readme)  
 [Axios](https://axios-http.com/docs/intro)  
 [Material UI](https://mui.com/material-ui/getting-started/overview/)  
 [Lodash](https://lodash.com/docs/4.17.15)
